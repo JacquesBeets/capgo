@@ -114,7 +114,7 @@
     "@formkit/i18n": "^1.6.5",
     "@formkit/themes": "1.6.7",
     "@formkit/vue": "1.6.7",
-    "@hono/hono": "npm:@jsr/hono__hono@4.5.9",
+    "@hono/hono": "^4.5.9",
     "@hono/sentry": "^1.2.0",
     "@iconify-json/simple-icons": "^1.2.2",
     "@intlify/unplugin-vue-i18n": "^5.0.0",
